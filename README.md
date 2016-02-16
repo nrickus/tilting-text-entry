@@ -1,13 +1,12 @@
-# tilting-text-entry
+# Tilting Text Entry on the BBC micro:bit
 
 
- Tilting Text Entry on the BBC Mircobit by Neil Rickus @computingchamps
- Version 1.0 released 16th Feb 2016
+ Tilting Text Entry on the BBC mirco:bit by Neil Rickus @computingchamps
 
- Program uses the BBC Microbit's accelerometer to allow the entry of text, which can subsequently scroll across the screen
+ Program uses the BBC micro:bit's accelerometer to allow the entry of text, which can subsequently scroll across the screen
  View the program in action here - Youtube link
 
- Tilt the Microbit right to move up through the alphabet, or left to move down through the alphabet
+ Tilt the micro:bit right to move up through the alphabet, or left to move down through the alphabet
  Spaces for separating letters / words can be found at the start and the end of the alphabet
 
  Press button A when the letter (or space) you want to enter is displayed. A happy face will acknowledge the button press
